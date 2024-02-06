@@ -14,4 +14,3 @@ Despite being my first project , navigating through the vast sea of data and sel
 
 The findings from this project are not only informative but also offer practical implications for lending institutions seeking to optimize their risk assessment strategies and minimize default losses. By sharing this repository, I aim to contribute to the data science community and foster collaboration and knowledge sharing among peers.
 
-<b>Note:</b> Feel free to customize and enhance the description as per your preferences and the specifics of your project.
